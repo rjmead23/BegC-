@@ -1,0 +1,8 @@
+C:\Documents and Settings\HOME\My Documents\Visual Studio 2010\Projects\BegC#\WorkSchedule\WorkSchedule\bin\Debug\WorkSchedule.exe
+C:\Documents and Settings\HOME\My Documents\Visual Studio 2010\Projects\BegC#\WorkSchedule\WorkSchedule\bin\Debug\WorkSchedule.pdb
+C:\Documents and Settings\HOME\My Documents\Visual Studio 2010\Projects\BegC#\WorkSchedule\WorkSchedule\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\HOME\My Documents\Visual Studio 2010\Projects\BegC#\WorkSchedule\WorkSchedule\obj\x86\Debug\frmMain.resources
+C:\Documents and Settings\HOME\My Documents\Visual Studio 2010\Projects\BegC#\WorkSchedule\WorkSchedule\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\HOME\My Documents\Visual Studio 2010\Projects\BegC#\WorkSchedule\WorkSchedule\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\HOME\My Documents\Visual Studio 2010\Projects\BegC#\WorkSchedule\WorkSchedule\obj\x86\Debug\WorkSchedule.exe
+C:\Documents and Settings\HOME\My Documents\Visual Studio 2010\Projects\BegC#\WorkSchedule\WorkSchedule\obj\x86\Debug\WorkSchedule.pdb

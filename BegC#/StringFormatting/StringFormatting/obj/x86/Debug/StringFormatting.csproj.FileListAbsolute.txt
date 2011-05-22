@@ -1,0 +1,10 @@
+c:\documents and settings\rmeadows\my documents\visual studio 2010\Projects\StringFormatting\StringFormatting\bin\Debug\StringFormatting.exe
+c:\documents and settings\rmeadows\my documents\visual studio 2010\Projects\StringFormatting\StringFormatting\bin\Debug\StringFormatting.pdb
+c:\documents and settings\rmeadows\my documents\visual studio 2010\Projects\StringFormatting\StringFormatting\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\rmeadows\my documents\visual studio 2010\Projects\StringFormatting\StringFormatting\obj\x86\Debug\frmMain.resources
+c:\documents and settings\rmeadows\my documents\visual studio 2010\Projects\StringFormatting\StringFormatting\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+c:\documents and settings\rmeadows\my documents\visual studio 2010\Projects\StringFormatting\StringFormatting\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+c:\documents and settings\rmeadows\my documents\visual studio 2010\Projects\StringFormatting\StringFormatting\obj\x86\Debug\StringFormatting.exe
+c:\documents and settings\rmeadows\my documents\visual studio 2010\Projects\StringFormatting\StringFormatting\obj\x86\Debug\StringFormatting.pdb
+C:\Documents and Settings\rmeadows\My Documents\Visual Studio 2010\Projects\BegC#\StringFormatting\StringFormatting\obj\x86\Debug\StringFormatting.exe
+C:\Documents and Settings\rmeadows\My Documents\Visual Studio 2010\Projects\BegC#\StringFormatting\StringFormatting\obj\x86\Debug\StringFormatting.pdb

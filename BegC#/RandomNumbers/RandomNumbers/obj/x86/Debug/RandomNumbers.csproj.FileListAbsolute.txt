@@ -1,0 +1,9 @@
+C:\Users\Rich\Documents\Development\Visual Studio\BegC#\RandomNumbers\RandomNumbers\bin\Debug\RandomNumbers.exe
+C:\Users\Rich\Documents\Development\Visual Studio\BegC#\RandomNumbers\RandomNumbers\bin\Debug\RandomNumbers.pdb
+C:\Users\Rich\Documents\Development\Visual Studio\BegC#\RandomNumbers\RandomNumbers\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rich\Documents\Development\Visual Studio\BegC#\RandomNumbers\RandomNumbers\obj\x86\Debug\RandomNumbers.Form1.resources
+C:\Users\Rich\Documents\Development\Visual Studio\BegC#\RandomNumbers\RandomNumbers\obj\x86\Debug\RandomNumbers.Properties.Resources.resources
+C:\Users\Rich\Documents\Development\Visual Studio\BegC#\RandomNumbers\RandomNumbers\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Rich\Documents\Development\Visual Studio\BegC#\RandomNumbers\RandomNumbers\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Rich\Documents\Development\Visual Studio\BegC#\RandomNumbers\RandomNumbers\obj\x86\Debug\RandomNumbers.exe
+C:\Users\Rich\Documents\Development\Visual Studio\BegC#\RandomNumbers\RandomNumbers\obj\x86\Debug\RandomNumbers.pdb

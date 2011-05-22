@@ -1,0 +1,20 @@
+C:\Documents and Settings\HOME\My Documents\Visual Studio 2010\Projects\BegC#\TableOfSquares\TableOfSquares\bin\Debug\TableOfSquares.exe
+C:\Documents and Settings\HOME\My Documents\Visual Studio 2010\Projects\BegC#\TableOfSquares\TableOfSquares\bin\Debug\TableOfSquares.pdb
+C:\Documents and Settings\HOME\My Documents\Visual Studio 2010\Projects\BegC#\TableOfSquares\TableOfSquares\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\HOME\My Documents\Visual Studio 2010\Projects\BegC#\TableOfSquares\TableOfSquares\obj\x86\Debug\frmMain.resources
+C:\Documents and Settings\HOME\My Documents\Visual Studio 2010\Projects\BegC#\TableOfSquares\TableOfSquares\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\HOME\My Documents\Visual Studio 2010\Projects\BegC#\TableOfSquares\TableOfSquares\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\HOME\My Documents\Visual Studio 2010\Projects\BegC#\TableOfSquares\TableOfSquares\obj\x86\Debug\TableOfSquares.exe
+C:\Documents and Settings\HOME\My Documents\Visual Studio 2010\Projects\BegC#\TableOfSquares\TableOfSquares\obj\x86\Debug\TableOfSquares.pdb
+C:\Users\Rich\Documents\Development\Visual Studio\BegC#\TableOfSquares\TableOfSquares\obj\x86\Debug\TableOfSquares.exe
+C:\Users\Rich\Documents\Development\Visual Studio\BegC#\TableOfSquares\TableOfSquares\obj\x86\Debug\TableOfSquares.pdb
+C:\Users\Rich\Documents\Development\Visual Studio\BegC#\TableOfSquares_NestedLoop\TableOfSquares\obj\x86\Debug\TableOfSquares.exe
+C:\Users\Rich\Documents\Development\Visual Studio\BegC#\TableOfSquares_NestedLoop\TableOfSquares\obj\x86\Debug\TableOfSquares.pdb
+C:\Users\Rich\Documents\Development\Visual Studio\BegC#\TableOfSquares_NestedLoop\TableOfSquares\bin\Debug\TableOfSquares.exe
+C:\Users\Rich\Documents\Development\Visual Studio\BegC#\TableOfSquares_NestedLoop\TableOfSquares\bin\Debug\TableOfSquares.pdb
+C:\Users\Rich\Documents\Development\Visual Studio\BegC#\TableOfSquares_NestedLoop\TableOfSquares\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rich\Documents\Development\Visual Studio\BegC#\TableOfSquares_NestedLoop\TableOfSquares\obj\x86\Debug\frmMain.resources
+C:\Users\Rich\Documents\Development\Visual Studio\BegC#\TableOfSquares_NestedLoop\TableOfSquares\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Rich\Documents\Development\Visual Studio\BegC#\TableOfSquares_NestedLoop\TableOfSquares\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Rich\Documents\Development\Visual Studio\BegC#\TableOfSquares_NestedLoop\TableOfSquares\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Rich\Documents\Development\Visual Studio\BegC#\TableOfSquares_NestedLoop\TableOfSquares\obj\x86\Debug\ResGen.write.1.tlog

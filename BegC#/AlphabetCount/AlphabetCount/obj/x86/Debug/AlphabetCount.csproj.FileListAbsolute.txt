@@ -1,0 +1,9 @@
+C:\Users\Rich\Documents\Development\Visual Studio\BegC#\AlphabetCount\AlphabetCount\bin\Debug\AlphabetCount.exe
+C:\Users\Rich\Documents\Development\Visual Studio\BegC#\AlphabetCount\AlphabetCount\bin\Debug\AlphabetCount.pdb
+C:\Users\Rich\Documents\Development\Visual Studio\BegC#\AlphabetCount\AlphabetCount\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rich\Documents\Development\Visual Studio\BegC#\AlphabetCount\AlphabetCount\obj\x86\Debug\AlphabetCount.Form1.resources
+C:\Users\Rich\Documents\Development\Visual Studio\BegC#\AlphabetCount\AlphabetCount\obj\x86\Debug\AlphabetCount.Properties.Resources.resources
+C:\Users\Rich\Documents\Development\Visual Studio\BegC#\AlphabetCount\AlphabetCount\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Rich\Documents\Development\Visual Studio\BegC#\AlphabetCount\AlphabetCount\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Rich\Documents\Development\Visual Studio\BegC#\AlphabetCount\AlphabetCount\obj\x86\Debug\AlphabetCount.exe
+C:\Users\Rich\Documents\Development\Visual Studio\BegC#\AlphabetCount\AlphabetCount\obj\x86\Debug\AlphabetCount.pdb

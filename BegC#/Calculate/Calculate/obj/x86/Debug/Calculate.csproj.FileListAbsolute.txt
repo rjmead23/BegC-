@@ -1,0 +1,9 @@
+C:\Documents and Settings\HOME\My Documents\Visual Studio 2010\Projects\BegC#\Calculate\Calculate\bin\Debug\Calculate.exe.config
+C:\Documents and Settings\HOME\My Documents\Visual Studio 2010\Projects\BegC#\Calculate\Calculate\bin\Debug\Calculate.exe
+C:\Documents and Settings\HOME\My Documents\Visual Studio 2010\Projects\BegC#\Calculate\Calculate\bin\Debug\Calculate.pdb
+C:\Documents and Settings\HOME\My Documents\Visual Studio 2010\Projects\BegC#\Calculate\Calculate\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\HOME\My Documents\Visual Studio 2010\Projects\BegC#\Calculate\Calculate\obj\x86\Debug\frmMain.resources
+C:\Documents and Settings\HOME\My Documents\Visual Studio 2010\Projects\BegC#\Calculate\Calculate\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\HOME\My Documents\Visual Studio 2010\Projects\BegC#\Calculate\Calculate\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\HOME\My Documents\Visual Studio 2010\Projects\BegC#\Calculate\Calculate\obj\x86\Debug\Calculate.exe
+C:\Documents and Settings\HOME\My Documents\Visual Studio 2010\Projects\BegC#\Calculate\Calculate\obj\x86\Debug\Calculate.pdb

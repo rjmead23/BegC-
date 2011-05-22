@@ -1,0 +1,9 @@
+C:\Users\Rich\Documents\Development\Visual Studio\BegC#\InterestEarned\InterestEarned\bin\Debug\InterestEarned.exe
+C:\Users\Rich\Documents\Development\Visual Studio\BegC#\InterestEarned\InterestEarned\bin\Debug\InterestEarned.pdb
+C:\Users\Rich\Documents\Development\Visual Studio\BegC#\InterestEarned\InterestEarned\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rich\Documents\Development\Visual Studio\BegC#\InterestEarned\InterestEarned\obj\x86\Debug\InterestEarned.Form1.resources
+C:\Users\Rich\Documents\Development\Visual Studio\BegC#\InterestEarned\InterestEarned\obj\x86\Debug\InterestEarned.Properties.Resources.resources
+C:\Users\Rich\Documents\Development\Visual Studio\BegC#\InterestEarned\InterestEarned\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Rich\Documents\Development\Visual Studio\BegC#\InterestEarned\InterestEarned\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Rich\Documents\Development\Visual Studio\BegC#\InterestEarned\InterestEarned\obj\x86\Debug\InterestEarned.exe
+C:\Users\Rich\Documents\Development\Visual Studio\BegC#\InterestEarned\InterestEarned\obj\x86\Debug\InterestEarned.pdb

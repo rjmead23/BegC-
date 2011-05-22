@@ -1,0 +1,9 @@
+C:\Users\Rich\Documents\Development\Visual Studio\BegC#\Factorial\Factorial\bin\Debug\Factorial.exe
+C:\Users\Rich\Documents\Development\Visual Studio\BegC#\Factorial\Factorial\bin\Debug\Factorial.pdb
+C:\Users\Rich\Documents\Development\Visual Studio\BegC#\Factorial\Factorial\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rich\Documents\Development\Visual Studio\BegC#\Factorial\Factorial\obj\x86\Debug\Factorial.Form1.resources
+C:\Users\Rich\Documents\Development\Visual Studio\BegC#\Factorial\Factorial\obj\x86\Debug\Factorial.Properties.Resources.resources
+C:\Users\Rich\Documents\Development\Visual Studio\BegC#\Factorial\Factorial\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Rich\Documents\Development\Visual Studio\BegC#\Factorial\Factorial\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Rich\Documents\Development\Visual Studio\BegC#\Factorial\Factorial\obj\x86\Debug\Factorial.exe
+C:\Users\Rich\Documents\Development\Visual Studio\BegC#\Factorial\Factorial\obj\x86\Debug\Factorial.pdb

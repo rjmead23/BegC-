@@ -1,0 +1,9 @@
+C:\Users\Rich\Documents\Development\Visual Studio\BegC#\OuncesToGrams\OuncesToGrams\bin\Debug\OuncesToGrams.exe
+C:\Users\Rich\Documents\Development\Visual Studio\BegC#\OuncesToGrams\OuncesToGrams\bin\Debug\OuncesToGrams.pdb
+C:\Users\Rich\Documents\Development\Visual Studio\BegC#\OuncesToGrams\OuncesToGrams\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rich\Documents\Development\Visual Studio\BegC#\OuncesToGrams\OuncesToGrams\obj\x86\Debug\OuncesToGrams.Form1.resources
+C:\Users\Rich\Documents\Development\Visual Studio\BegC#\OuncesToGrams\OuncesToGrams\obj\x86\Debug\OuncesToGrams.Properties.Resources.resources
+C:\Users\Rich\Documents\Development\Visual Studio\BegC#\OuncesToGrams\OuncesToGrams\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Rich\Documents\Development\Visual Studio\BegC#\OuncesToGrams\OuncesToGrams\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Rich\Documents\Development\Visual Studio\BegC#\OuncesToGrams\OuncesToGrams\obj\x86\Debug\OuncesToGrams.exe
+C:\Users\Rich\Documents\Development\Visual Studio\BegC#\OuncesToGrams\OuncesToGrams\obj\x86\Debug\OuncesToGrams.pdb
